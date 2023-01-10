@@ -21,7 +21,7 @@ best public: 0.58848 (w/private: 0.58992) &rarr; sum of private and public score
 3. Execute 0813304_Final_reference.ipynb  
 &rarr; reproduced file named as 'submission_best_publicScore_pickled.csv'  
   
-【Alternative way】  
+【Alternative way】(recommended ∵process of training model(LogisticRegression) is fast)    
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Train model and directly derived submission file by executing 0813304_Final_train.ipynb  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &rarr; derived file named as 'submission_best_publicScore.csv' (same as 'submission_best_publicScore_pickled.csv')  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &rarr; also, you can derive 'submission_best_privateScore.csv' at the same time  
