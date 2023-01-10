@@ -15,7 +15,7 @@ best public: 0.58848 (w/private: 0.58992) &rarr; sum of private and public score
 * Steps:  
 1. Download files needed  
 &nbsp; (1) dataset &rarr; from this repository / Kaggle   
-&nbsp; (2) ipynb  &rarr; from this repository  
+&nbsp; (2) reference ipynb  &rarr; from this repository  
 &nbsp; (3) trained model  &rarr; from this repository / Google drive  
 2. Ensure the above files in same level position (ex.same folder)   
 3. Execute 0813304_Final_reference.ipynb  
