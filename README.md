@@ -3,7 +3,7 @@
 &nbsp; https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/submissions  
 **◾ Model Link**   
 &nbsp; 1. within Github  
-&nbsp; https://github.com/yayun502/ML_Final_Project/blob/dcbd5f1ca8de30001e73c6681cce007d8939305d/model_best_publicScore.pkl  
+&nbsp; https://github.com/yayun502/ML_Final_Project/blob/dcbd5f1ca8de30001e73c6681cce007d8939305d/model_best_publicScore.pkl   
 &nbsp; 2. within Google drive (backup)  
 &nbsp; https://drive.google.com/drive/folders/1rxJesfU_IzRIXDxnWHz887C8z7FjgQGb?usp=share_link
   
